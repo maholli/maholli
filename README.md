@@ -7,12 +7,7 @@ I build electronic systems for harsh environments (like space). Everything is op
 
 ## 🛠 Like prototyping electronics?
 
-Check out my [soldering tutorial](https://maholli.com/soldering) used in Stanford's EE department
+Check out my [soldering tutorial](https://maholli.com/soldering) used in Stanford's EE department, Or build a [SAM32](https://maholli.com/sam32), a "swiss-army knife" for embedded projects
 <p align="left">
-  <img width="400" src="https://github.com/maholli/tutorials/blob/master/images/soldering.gif">
-</p>
-
-Or build a [SAM32](https://maholli.com/sam32), a "swiss-army knife" for embedded projects
-<p align="left">
-  <img width="400" src="https://github.com/maholli/tutorials/blob/master/images/sam32.jpg">
+  <img width="450" src="https://github.com/maholli/tutorials/blob/master/images/soldering.gif">  <img width="342" src="https://github.com/maholli/tutorials/blob/master/images/sam32.jpg">
 </p>
