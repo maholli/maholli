@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🛰 Hi!
 
-<!--
-**maholli/maholli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build electronic systems for harsh environments (like space). Everything is open source, so check out [PyCubed](https.pycubed.org), [KickSat-2](https://www.nasa.gov/ames/kicksat), or [V-R3X](vr3x.space) missions for more details!
 
-Here are some ideas to get you started:
+![](/images/pycubed.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Like prototyping electronics?
+
+Check out my [soldering tutorial](https://maholli.com/soldering) used in Stanford's EE department
+![](/images/soldering.gif)
+
+Or build a [SAM32](https://maholli.com/sam32), a "swiss-army knife" for embedded projects
+![](/images/sam32.jpg)
