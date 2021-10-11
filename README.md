@@ -2,7 +2,7 @@
 
 I build electronic systems for harsh environments (like space).
 
-Everything is open source, so check out [PyCubed](https.pycubed.org), [KickSat-2](https://www.nasa.gov/ames/kicksat), or [V-R3X](vr3x.space) missions for more details!
+Everything is open source, so check out [PyCubed](https://pycubed.org/), [KickSat-2](https://www.nasa.gov/ames/kicksat), or [V-R3X](vr3x.space) missions for more details!
 <p align="left">
   <img width="400" src="https://github.com/maholli/tutorials/blob/master/images/pycubed.jpg"><img width="400" src="https://github.com/maholli/tutorials/blob/master/images/sprites.gif">
 </p>
